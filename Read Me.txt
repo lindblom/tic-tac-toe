@@ -1,0 +1,30 @@
+-ENGLISH-
+
+To Play over Network.
+===========================
+1. Put "Tic Tac Toe.exe" on a computer, connected to the network.
+2. Share the folder where you put the exe-file.
+3. Log on from another computer with full control.
+4. Start it on both computers, but run it from the same machine.
+5. One server, and one client (Server Firest).
+
+To play on one computer.
+===========================
+1. Start the game twice, so you have two windows.
+5. One server, and one client (Server Firest).
+
+
+-SWEDISH-
+
+För att spela över nätverk.
+===========================
+1. Lägg in "tic tac toe.exe" på en dator kopplad till nätverk.
+2. Dela ut mappen som spelet ligger i.
+3. Logga in ifrån en annan dator med fullständiga behörigheter.
+4. Starta på bägge maskinerna, kört ifrån samma maskin.
+5. En är server, en är client. (Servern först.)
+
+För att spela på en dator.
+===========================
+1. Starta spelet två gånger, så att du har två fönster.
+2. Välj att en är server och den andra client. (Först servern.)
